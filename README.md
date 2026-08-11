@@ -78,4 +78,4 @@ This retrieves relevant chunks and uses `gemma3:1b` to answer the query based on
 
 ## License
 
-Use as you like.
+Use as you like as this was just a simple project that I made to learn a bit about RAG.
